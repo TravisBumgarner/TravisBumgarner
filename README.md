@@ -35,4 +35,4 @@ For projects, not listed here, you can find them out in the wild.
 
 ## Candlelight Game
 - Candlelight is a puzzle game where each shape you place onto the grid inverts the color of the space it occupies. Every inversion offers the opportunity to alchemize a gem and advance. 
-- [Steam Store](https://store.steampowered.com/app/3157820/Candlelight/), [Website](http://candlelight.sillysideprojects.com/)
+- [Steam Store](https://store.steampowered.com/app/3157820/Candlelight/), [Website](https://travisbumgarner.dev/marketing/candlelight)
